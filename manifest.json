@@ -1,6 +1,6 @@
 {
-    "name": "praum_project_web_app",
-    "short_name": "praum_project_web_app",
+    "name": "Toonder",
+    "short_name": "Toonder",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
